@@ -41,3 +41,6 @@ Há 5 seções no arquivo:<br/>
 Ainda é praticamente tudo feito manualmente, isso é, não há muito automatização do código
 para eficiência, foi feito pela tentativa e erro --- mas funciona! Fique à vontade para conferir e
 melhorar o código.
+
+Em algum momento vou transformar esse código em um server local por js, o que facilitaria muito a
+criação de uma interface gráfica.
