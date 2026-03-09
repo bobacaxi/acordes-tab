@@ -31,11 +31,11 @@ Assim, basta escrever um acorde e o resultado será uma tablatura com as marcaç
 O arquivo main.py executa todas as operações, no entanto é o arquivo helpers.py que define os objetos.
 Há 5 seções no arquivo:<br/>
 
-1 - Dicionários (cromática, tríades e alterações)
-2 - Regras (formatação dos acordes)
-3 - classe Acorde (identifica o tom e o campo harmônico do acorde)
-4 - classe Tablatura (cria uma tabela do braço e marca o campo harmônico em números)
-5 - classe Render (representa e alinha a tabela, adiciona contagem e legenda)
+1. Dicionários (cromática, tríades e alterações)
+2. Regras (formatação dos acordes)
+3. classe Acorde (identifica o tom e o campo harmônico do acorde)
+4. classe Tablatura (cria uma tabela do braço e marca o campo harmônico em números)
+5. classe Render (representa e alinha a tabela, adiciona contagem e legenda)
 
 Ainda é praticamente tudo feito manualmente, isso é, não há muito automatização do código
 para eficiência, foi feito pela tentativa e erro --- mas funciona! Fique à vontade para conferir e
