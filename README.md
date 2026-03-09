@@ -11,11 +11,11 @@ de formatação para o acorde ser inserido:<br/>
 
 REGRAS
 _____________________________________________________
-I   -  apenas sustenidos # - não tem bemol             [ex. C#] <br/>
-II  -  pode Maior e Menor                              [ex. C e Cm] <br/>
-III -  a 1a alteração é idêntica às listadas           [ex. C9-]<br/>
-IV  -  a 2a alteração é separada por parêntesis        [ex. C7(9-)]<br/>
-V   -  a inversão é separada por uma barra             [ex. C/G#]<br/>
+1. apenas sustenidos # - não tem bemol             [ex. C#] <br/>
+2. pode Maior e Menor                              [ex. C e Cm] <br/>
+3. a 1a alteração é idêntica às listadas           [ex. C9-]<br/>
+4. a 2a alteração é separada por parêntesis        [ex. C7(9-)]<br/>
+5. a inversão é separada por uma barra             [ex. C/G#]<br/>
 
   --> 5- e 5+ não são extensões, a 5 é substituída
 _____________________________________________________
