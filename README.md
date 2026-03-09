@@ -5,8 +5,10 @@ um pouco de NumPy, um dia vai ser adaptado apenas com pacotes built-in.
 
 # Como usar
 
-Para usar basta rodar o arquivo main.py em uma IDE ou terminal, que aparecerá uma série de regras 
-de formatação para o acorde ser inserido:<br/>
+Para usar, primeiro é necessário baixar os arquivos "main.py" e "helpers.py", dentro de uma mesma pasta. Se você não tem
+NumPy, é muito fácil de instalar, basta abrir um console python 3 digitar "pip install numpy". 
+Finalmente, basta rodar o arquivo main.py em uma IDE ou terminal, que aparecerão uma série de regras 
+de formatação para o acorde:<br/>
 <br/>
 
 REGRAS
