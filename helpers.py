@@ -14,19 +14,19 @@
 
 
 import numpy as np
-# region DICIONÁRIOS
+# region Dicionários
 
 # nessa definicao da cromatica, os indices 0-11 representam as notas
 # num --> notas => escala_cromatica[num] || notas --> num => escala.cromatica.index(notas)
 escala_cromatica = 'C C# D D# E F F# G G# A A# B'.split(' ')
 
 triade_maior = [0, 4, 7]
+triade_menor = [0, 3, 7]
 
 def acorde_natural(tom):
     eh_menor = True if 'm' in tom else False
     if eh_menor:
         num = escala_cromatica.index(tom.strip('m'))
-        triade_menor = [0, 3, 7]
         return [escala_cromatica[(i + num) % 12] for i in triade_menor]
     else:
         num = escala_cromatica.index(tom)
