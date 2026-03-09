@@ -6,7 +6,8 @@ um pouco de NumPy, um dia vai ser adaptado apenas com pacotes built-in.
 # Como usar
 
 Para usar basta rodar o arquivo main.py em uma IDE ou terminal, que aparecerá uma série de regras 
-de formatação para o acorde ser inserido:
+de formatação para o acorde ser inserido:<br/>
+<br/>
 
                       REGRAS
 _____________________________________________________
@@ -21,6 +22,7 @@ _____________________________________________________
   --- Lista de alterações:
           9-, 9, 9+, 4, 5-, 5+, 6, 7, 7+
 _____________________________________________________
-
+<br/>
 Assim, basta escrever um acorde e o resultado será uma tablatura com as marcações adequadas.
 É possível também alterar o tamanho do braço do violão mostrado, que está no padrão tamanho_braco = 12.
+
