@@ -9,7 +9,7 @@ Para usar basta rodar o arquivo main.py em uma IDE ou terminal, que aparecerá u
 de formatação para o acorde ser inserido:<br/>
 <br/>
 
-                      REGRAS
+REGRAS
 _____________________________________________________
 I   -  apenas sustenidos # - não tem bemol             ex. C#<br/>
 II  -  pode Maior e Menor                              ex. C e Cm<br/>
